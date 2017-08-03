@@ -48,6 +48,11 @@
 			<version>1.4.9</version>
 			<!--<scope>runtime</scope>-->
 		</dependency>
+		<dependency>
+			<groupId>org.openbase</groupId>
+			<artifactId>jul.audio</artifactId>
+			<version>1.3.12</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
